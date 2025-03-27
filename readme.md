@@ -1,22 +1,16 @@
 # MCCFN 
 
-Code for "MCCFNet:A Multi-scale Complex-valued Convolutional Fusion Network for Automatic Modulation Recognition".
-
 The article is currently under submission. We will upload the full code immediately upon acceptance.
 
 ![](./assets/model.png)
-
-![](./assets/complex_valued_convolution_operation.png)
 
 ## Preparation
 
 Data
 
-Experiments were conducted on four datasets: RMLradio2016.10a, RMLradio2016.10b, RMLradio2016.04c, and RML22.
+Experiments were conducted on four datasets: RMLradio2016.10a, RMLradio2016.10b and RML22.
 
-<img src="./assets/all_models_accuracy_comparison_a.png" style="zoom:50%;" /><img src="./assets/all_models_accuracy_comparison_b.png" style="zoom:50%;" />
-
-<img src="./assets/all_models_accuracy_comparison_c.png" style="zoom:50%;" /><img src="./assets/all_models_accuracy_comparison_22.png" style="zoom:50%;" />
+<img src="H:\desktop\my_ws\MCCFN\assets\all_models_accuracy_comparison_a.png" style="zoom:33%;" /><img src="H:\desktop\my_ws\MCCFN\assets\all_models_accuracy_comparison_b.png" style="zoom: 33%;" /><img src="H:\desktop\my_ws\MCCFN\assets\all_models_accuracy_comparison_22.png" style="zoom:33%;" />
 
 The dataset can be downloaded from the [DeepSig](https://www.deepsig.ai/datasets/) official website.
 
