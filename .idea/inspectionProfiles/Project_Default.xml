@@ -1,0 +1,58 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="37">
+            <item index="0" class="java.lang.String" itemvalue="random" />
+            <item index="1" class="java.lang.String" itemvalue="h5py" />
+            <item index="2" class="java.lang.String" itemvalue="sklearn" />
+            <item index="3" class="java.lang.String" itemvalue="time" />
+            <item index="4" class="java.lang.String" itemvalue="math" />
+            <item index="5" class="java.lang.String" itemvalue="copy" />
+            <item index="6" class="java.lang.String" itemvalue="argparse" />
+            <item index="7" class="java.lang.String" itemvalue="pickle" />
+            <item index="8" class="java.lang.String" itemvalue="mamba_ssm" />
+            <item index="9" class="java.lang.String" itemvalue="pandas" />
+            <item index="10" class="java.lang.String" itemvalue="tqdm" />
+            <item index="11" class="java.lang.String" itemvalue="scipy" />
+            <item index="12" class="java.lang.String" itemvalue="calflops" />
+            <item index="13" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="14" class="java.lang.String" itemvalue="torch" />
+            <item index="15" class="java.lang.String" itemvalue="numpy" />
+            <item index="16" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="17" class="java.lang.String" itemvalue="ema-pytorch" />
+            <item index="18" class="java.lang.String" itemvalue="seaborn" />
+            <item index="19" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="20" class="java.lang.String" itemvalue="dm-control" />
+            <item index="21" class="java.lang.String" itemvalue="mujoco" />
+            <item index="22" class="java.lang.String" itemvalue="einops" />
+            <item index="23" class="java.lang.String" itemvalue="gluonts" />
+            <item index="24" class="java.lang.String" itemvalue="gradio" />
+            <item index="25" class="java.lang.String" itemvalue="tensorflow-determinism" />
+            <item index="26" class="java.lang.String" itemvalue="tensorflow-gpu" />
+            <item index="27" class="java.lang.String" itemvalue="mmcv" />
+            <item index="28" class="java.lang.String" itemvalue="coverage" />
+            <item index="29" class="java.lang.String" itemvalue="interrogate" />
+            <item index="30" class="java.lang.String" itemvalue="pytest" />
+            <item index="31" class="java.lang.String" itemvalue="swarms" />
+            <item index="32" class="java.lang.String" itemvalue="zetascale" />
+            <item index="33" class="java.lang.String" itemvalue="timm" />
+            <item index="34" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="35" class="java.lang.String" itemvalue="scikit_learn" />
+            <item index="36" class="java.lang.String" itemvalue="packaging" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

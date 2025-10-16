@@ -1,6 +1,6 @@
 # MCCFN 
 
-The article is currently under submission. We will upload the full code immediately upon acceptance.
+The article is currently under submission.
 
 ![](./assets/model.png)
 
